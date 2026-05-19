@@ -1,4 +1,13 @@
-## Hi there 👋
+## Prazer, Deyse ✨👩🏻‍💻
+
+Gosto de ajudar pessoas, organizar processos e transformar dados em decisões mais inteligentes.
+
+Iniciei minha trajetória com suporte técnico e operações comerciais, e hoje atuo com desenvolvimento de software, unindo tecnologia, análise de dados e experiência do cliente para criar soluções eficientes.
+
+🤖 Interesse em:
+dados, automação, desenvolvimento e melhoria de processos.
+
+📫 LinkedIn: https://www.linkedin.com/in/deyse-macedo-962736252/
 
 <!--
 **deysemacedo/deysemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
